@@ -1,0 +1,2 @@
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uso_try\uso_try\obj\Debug\uso_try.nfproj.AssemblyReference.cache
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uso_try\uso_try\obj\Debug\uso_try.nfproj.CoreCompileInputs.cache
