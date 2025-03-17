@@ -49,7 +49,7 @@ namespace Wifi_
                                 string content = reader.ReadToEnd();
 
                                 Debug.WriteLine("Respuesta HTTP recibida:");
-                                Debug.WriteLine($"C�digo de estado: {response.StatusCode}");
+                                Debug.WriteLine($"Codigo de estado: {response.StatusCode}");
                                 Debug.WriteLine("Contenido:");
                                 Debug.WriteLine(content);
                             }
