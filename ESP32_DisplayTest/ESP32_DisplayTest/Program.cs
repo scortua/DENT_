@@ -37,7 +37,7 @@ namespace ESP32_DisplayTest
                 ChipSelect,
                 DataCommand,
                 Reset,
-                -1);
+                -1); // blacklight);
 
             // Get the generic driver
             GraphicDriver graphicDriver = St7789.GraphicDriver;
@@ -57,8 +57,8 @@ namespace ESP32_DisplayTest
 
             var init = DisplayControl.Initialize(
                 displaySpiConfig,
-                screenConfig,
-            1024);
+                screenConfig);
+                //,1024);
 
             Bl.Write(PinValue.High);
             Debug.WriteLine($"Screen initialized");
@@ -74,28 +74,28 @@ namespace ESP32_DisplayTest
                 toSend[i] = blue;
             }
 
-            DisplayControl.Write(30, 30, 10, 10, toSend); // x, y, width, height, data
+            DisplayControl.Write(10, 10, 10, 10, toSend); // x, y, width, height, data
 
             for (int i = 0; i < toSend.Length; i++)
             {
                 toSend[i] = red;
             }
 
-            DisplayControl.Write(220, 100, 10, 10, toSend); // x, y, width, height, data
+            DisplayControl.Write(220, 10, 10, 10, toSend); // x, y, width, height, data
 
             for (int i = 0; i < toSend.Length; i++)
             {
                 toSend[i] = green;
             }
 
-            DisplayControl.Write(20, 149, 10, 10, toSend); // x, y, width, height, data
+            DisplayControl.Write(10, 260, 10, 10, toSend); // x, y, width, height, data
 
             for (int i = 0; i < toSend.Length; i++)
             {
                 toSend[i] = white;
             }
 
-            DisplayControl.Write(69, 149, 10, 10, toSend); // x, y, width, height, data
+            DisplayControl.Write(220, 260, 10, 10, toSend); // x, y, width, height, data
 
             Thread.Sleep(Timeout.Infinite);
 
