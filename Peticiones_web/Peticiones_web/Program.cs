@@ -13,8 +13,8 @@ namespace PeticionesWeb
         const string ssid = "CARPE_DIEM";
         const string password = "Oing9002";
         //const string url = "http://my.meteoblue.com/packages/basic-day_current?apikey=qwaPIF0891gV7uSm&lat=4.60971&lon=-74.0817&asl=2582&format=json&tz=GMT";
-        //const string url = "https://jsonplaceholder.typicode.com/todos/1";
-        const string url = "http://api.openweathermap.org/data/2.5/weather";
+        const string url = "http://jsonplaceholder.typicode.com/todos/1";
+        //const string url = "http://api.openweathermap.org/data/2.5/weather";
 
         private static bool wifiConectado = false;
 

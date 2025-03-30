@@ -3,72 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\ugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\ugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguicore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguicore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguicolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguicolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguifont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguifont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\ugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\ugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguidriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguidriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguicheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguicheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguitextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguitextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguiimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguiimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguiobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguiobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguimessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguimessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguicolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguicolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguiwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguiwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguibmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguibmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguicheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguicheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguifont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguifont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguiimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguiimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguimessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguimessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguiobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguiobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguitext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguitext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\ugui_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\ugui_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguitextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguitextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguibmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguibmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguitouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguitouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguititle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguititle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\uguitouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\uguitouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|c:\\users\\scort\\onedrive\\documentos\\santiago cortes tovar\\electronica\\9.noveno semestre\\.net\\ugui\\ugui\\ugui_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D6AF55-4463-4CC8-8CA4-DC4A017A1B91}|uGUI\\uGUI.nfproj|solutionrelative:ugui\\ugui_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,26 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "uGuiCore.cs",
-              "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiCore.cs",
-              "RelativeDocumentMoniker": "uGUI\\uGuiCore.cs",
-              "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiCore.cs",
-              "RelativeToolTip": "uGUI\\uGuiCore.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAwEAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T17:29:14.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "uGuiDriver.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiDriver.cs",
               "RelativeDocumentMoniker": "uGUI\\uGuiDriver.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiDriver.cs",
               "RelativeToolTip": "uGUI\\uGuiDriver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T17:28:56.627Z",
               "EditorCaption": ""
@@ -122,20 +109,20 @@
               "RelativeDocumentMoniker": "uGUI\\uGuiImage.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiImage.cs",
               "RelativeToolTip": "uGUI\\uGuiImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T17:28:41.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "uGuiTextBox.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiTextBox.cs",
               "RelativeDocumentMoniker": "uGUI\\uGuiTextBox.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiTextBox.cs",
               "RelativeToolTip": "uGUI\\uGuiTextBox.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T17:28:18.727Z",
               "EditorCaption": ""
@@ -148,46 +135,46 @@
               "RelativeDocumentMoniker": "uGUI\\uGuiCheckBox.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiCheckBox.cs",
               "RelativeToolTip": "uGUI\\uGuiCheckBox.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T17:27:49.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "uGuiButton.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiButton.cs",
               "RelativeDocumentMoniker": "uGUI\\uGuiButton.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiButton.cs",
               "RelativeToolTip": "uGUI\\uGuiButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T17:27:28.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "uGuiBmp.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiBmp.cs",
               "RelativeDocumentMoniker": "uGUI\\uGuiBmp.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiBmp.cs",
               "RelativeToolTip": "uGUI\\uGuiBmp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T15:55:22.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "uGuiTouch.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiTouch.cs",
               "RelativeDocumentMoniker": "uGUI\\uGuiTouch.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiTouch.cs",
               "RelativeToolTip": "uGUI\\uGuiTouch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T16:01:20.645Z",
               "EditorCaption": ""
@@ -200,14 +187,40 @@
               "RelativeDocumentMoniker": "uGUI\\uGuiObject.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiObject.cs",
               "RelativeToolTip": "uGUI\\uGuiObject.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T16:04:11.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
+              "Title": "uGuiTitle.cs",
+              "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiTitle.cs",
+              "RelativeDocumentMoniker": "uGUI\\uGuiTitle.cs",
+              "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiTitle.cs",
+              "RelativeToolTip": "uGUI\\uGuiTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:22:08.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uGuiCore.cs",
+              "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiCore.cs",
+              "RelativeDocumentMoniker": "uGUI\\uGuiCore.cs",
+              "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiCore.cs",
+              "RelativeToolTip": "uGUI\\uGuiCore.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAmwF4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:29:14.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "uGuiWindow.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiWindow.cs",
               "RelativeDocumentMoniker": "uGUI\\uGuiWindow.cs",
@@ -220,93 +233,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "uGuiMessage.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiMessage.cs",
               "RelativeDocumentMoniker": "uGUI\\uGuiMessage.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiMessage.cs",
               "RelativeToolTip": "uGUI\\uGuiMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T15:57:30.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "uGuiText.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiText.cs",
               "RelativeDocumentMoniker": "uGUI\\uGuiText.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiText.cs",
               "RelativeToolTip": "uGUI\\uGuiText.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T15:50:42.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "uGui_Area.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGui_Area.cs",
               "RelativeDocumentMoniker": "uGUI\\uGui_Area.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGui_Area.cs",
               "RelativeToolTip": "uGUI\\uGui_Area.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T15:36:04.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "uGuiTitle.cs",
-              "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiTitle.cs",
-              "RelativeDocumentMoniker": "uGUI\\uGuiTitle.cs",
-              "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiTitle.cs",
-              "RelativeToolTip": "uGUI\\uGuiTitle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:22:08.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "uGuiFont.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiFont.cs",
               "RelativeDocumentMoniker": "uGUI\\uGuiFont.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiFont.cs",
               "RelativeToolTip": "uGUI\\uGuiFont.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T15:44:42.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "uGui.cs",
-              "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGui.cs",
-              "RelativeDocumentMoniker": "uGUI\\uGui.cs",
-              "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGui.cs",
-              "RelativeToolTip": "uGUI\\uGui.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T15:34:47.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "uGuiColor.cs",
               "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiColor.cs",
               "RelativeDocumentMoniker": "uGUI\\uGuiColor.cs",
               "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGuiColor.cs",
               "RelativeToolTip": "uGUI\\uGuiColor.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAAwJoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T15:41:40.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uGui.cs",
+              "DocumentMoniker": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGui.cs",
+              "RelativeDocumentMoniker": "uGUI\\uGui.cs",
+              "ToolTip": "C:\\Users\\Scort\\OneDrive\\Documentos\\santiago cortes tovar\\ELECTRONICA\\9.noveno semestre\\.NET\\uGUI\\uGUI\\uGui.cs",
+              "RelativeToolTip": "uGUI\\uGui.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:34:47.349Z",
               "EditorCaption": ""
             }
           ]

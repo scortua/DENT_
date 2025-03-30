@@ -4,7 +4,7 @@ using System.Text;
 
 namespace uGUI
 {
-    internal class uGuiColor
+    public class uGuiColor
     {
 #if USE_COLOR_RGB888
     public UInt32 Color { get; set; }

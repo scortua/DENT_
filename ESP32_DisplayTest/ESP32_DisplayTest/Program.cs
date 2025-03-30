@@ -6,11 +6,14 @@ using System.Device.Gpio;
 using nanoFramework.Hardware.Esp32;
 using nanoFramework.UI;
 using nanoFramework.UI.GraphicDrivers;
+using uGUI;
 
 namespace ESP32_DisplayTest
 {
     public class Program
     {
+        private static uGUI.uGUI Graphics; 
+
         private const int ChipSelect = 5;
         private const int DataCommand = 4;
         private const int Reset = 8;
@@ -63,7 +66,11 @@ namespace ESP32_DisplayTest
             Bl.Write(PinValue.High);
             Debug.WriteLine($"Screen initialized");
 
-            ushort[] toSend = new ushort[100];
+            Graphics = new uGUI.uGUI(DisplaySetPixel, 240, 280);
+
+            Graphics.FillRoundFrame(20,20,220,260,20,new uGuiColor(uGuiColor.C_GREEN));
+
+            /*ushort[] toSend = new ushort[100];
             var blue = Color.Blue.ToBgr565();
             var red = Color.Red.ToBgr565();
             var green = Color.Green.ToBgr565();
@@ -95,13 +102,17 @@ namespace ESP32_DisplayTest
                 toSend[i] = white;
             }
 
-            DisplayControl.Write(220, 260, 10, 10, toSend); // x, y, width, height, data
+            DisplayControl.Write(220, 260, 10, 10, toSend); // x, y, width, height, data*/
 
             Thread.Sleep(Timeout.Infinite);
 
             // Browse our samples repository: https://github.com/nanoframework/samples
             // Check our documentation online: https://docs.nanoframework.net/
             // Join our lively Discord community: https://discord.gg/gCyBu8T
+        }
+        private static void DisplaySetPixel(Int16 x, Int16 y, uGuiColor c)
+        {
+            DisplayControl.WritePoint((ushort)x, (ushort)y, c.Color);
         }
     }
 }
