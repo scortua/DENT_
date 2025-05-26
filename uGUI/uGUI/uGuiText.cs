@@ -1,17 +1,19 @@
 ﻿using System;
-using System.Collections;
 
 namespace uGUI
 {
-    internal class uGuiText
+    public partial class uGui
     {
-        public string str { get; set; } = string.Empty;
-        public uGuiFont font { get; set; } = null;
-        public uGuiArea area { get; set; } = null;
-        public uGuiColor fc { get; set; } = null;
-        public uGuiColor bc { get; set; } = null;
-        public byte align { get; set; } = 0;
-        public Int16 h_space { get; set; } = 0;
-        public Int16 v_space { get; set; } = 0;
+        public class uGuiText
+        {
+            public string str { get; set; }
+            public uGuiFont font { get; set; }
+            public uGuiArea a { get; set; }
+            public uGuiColor fc { get; set; }
+            public uGuiColor bc { get; set; }
+            public byte align { get; set; }
+            public Int16 h_space { get; set; }
+            public Int16 v_space { get; set; }
+        }
     }
 }

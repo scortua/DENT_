@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Device.Wifi;
 using System.Threading;
 using System.Net.Http;
-using System.Net;
+using nanoFramework.Json;
 
 namespace PeticionesWeb
 {
@@ -12,9 +12,9 @@ namespace PeticionesWeb
         // Parámetros de la red Wi-Fi
         const string ssid = "CARPE_DIEM";
         const string password = "Oing9002";
-        //const string url = "http://my.meteoblue.com/packages/basic-day_current?apikey=qwaPIF0891gV7uSm&lat=4.60971&lon=-74.0817&asl=2582&format=json&tz=GMT";
-        const string url = "http://jsonplaceholder.typicode.com/todos/1";
-        //const string url = "http://api.openweathermap.org/data/2.5/weather";
+        const string url = "http://my.meteoblue.com/packages/basic-day_current?apikey=qwaPIF0891gV7uSm&lat=4.60971&lon=-74.0817&asl=2582&format=json&tz=GMT";
+        //const string url = "http://jsonplaceholder.typicode.com/todos/1";
+        //const string url = "https://timeapi.io/api/time/current/coordinate?latitude=4.610&longitude=-74.082";
 
         private static bool wifiConectado = false;
 

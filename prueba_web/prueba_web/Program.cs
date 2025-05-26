@@ -10,8 +10,8 @@ namespace SecureClient
 {
     public class Program
     {
-        //private static string MySsid = ""; // enter your SSID here or name of your WiFi network
-        //private static string MyPassword = ""; // enter your SSID password here or password of your WiFi network
+        private static string MySsid = "Santi\'s note 20"; // enter your SSID here or name of your WiFi network
+        private static string MyPassword = "123456789ñ"; // enter your SSID password here or password of your WiFi network
         private static string ApiKey = "69285e08908ba2461be431c348d1e02d"; 
         private static string city = "Bogota,CO"; // enter your city here
         private static string units = "metric"; // enter your units here

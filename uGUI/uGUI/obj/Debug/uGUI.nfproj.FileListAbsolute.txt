@@ -1,0 +1,54 @@
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\uGUI.dll
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\uGUI.pdb
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\uGUI.pe
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\uGUI.pdbx
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\mscorlib.pe
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\nanoFramework.ResourceManager.pe
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\mscorlib.pdbx
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\nanoFramework.ResourceManager.pdbx
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\mscorlib.dll
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\nanoFramework.ResourceManager.dll
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\mscorlib.xml
+C:\Users\gzapata\source\repos\uGUI\uGUI\bin\Debug\nanoFramework.ResourceManager.xml
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.nfproj.AssemblyReference.cache
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.Resource1.resources
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.nfproj.GenerateResource.cache
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.Resource1.nanoresources
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.nfproj.NanoGenerateResource.Cache
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.nfproj.CoreCompileInputs.cache
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.pe
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.pdbx
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.nfproj.Up2Date
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.dll
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\uGUI.pdb
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\mscorlib.dll
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\nanoFramework.ResourceManager.dll
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\mscorlib.xml
+C:\Users\gzapata\source\repos\uGUI\uGUI\obj\Debug\nanoFramework.ResourceManager.xml
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\uGUI.dll
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\uGUI.pdb
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\uGUI.pe
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\uGUI.pdbx
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\mscorlib.pe
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\nanoFramework.ResourceManager.pe
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\mscorlib.pdbx
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\nanoFramework.ResourceManager.pdbx
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\mscorlib.dll
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\nanoFramework.ResourceManager.dll
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\mscorlib.xml
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\bin\Debug\nanoFramework.ResourceManager.xml
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.nfproj.AssemblyReference.cache
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.Resource1.resources
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.nfproj.GenerateResource.cache
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.Resource1.nanoresources
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.nfproj.NanoGenerateResource.Cache
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.nfproj.CoreCompileInputs.cache
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.pe
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.pdbx
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.nfproj.Up2Date
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.dll
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\uGUI.pdb
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\mscorlib.dll
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\nanoFramework.ResourceManager.dll
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\mscorlib.xml
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\uGUI\uGUI\obj\Debug\nanoFramework.ResourceManager.xml

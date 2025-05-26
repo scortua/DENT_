@@ -64,3 +64,15 @@ C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno se
 C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\obj\Debug\System.Net.xml
 C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\obj\Debug\System.Net.Http.xml
 C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\obj\Debug\System.Threading.xml
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\bin\Debug\nanoFramework.ResourceManager.pe
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\bin\Debug\nanoFramework.Runtime.Native.pe
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\bin\Debug\nanoFramework.ResourceManager.pdbx
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\bin\Debug\nanoFramework.Runtime.Native.pdbx
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\bin\Debug\nanoFramework.ResourceManager.dll
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\bin\Debug\nanoFramework.Runtime.Native.dll
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\bin\Debug\nanoFramework.ResourceManager.xml
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\bin\Debug\nanoFramework.Runtime.Native.xml
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\obj\Debug\nanoFramework.ResourceManager.dll
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\obj\Debug\nanoFramework.Runtime.Native.dll
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\obj\Debug\nanoFramework.ResourceManager.xml
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\ELECTRONICA\9.noveno semestre\.NET\Peticiones_web\Peticiones_web\obj\Debug\nanoFramework.Runtime.Native.xml

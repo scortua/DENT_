@@ -421,11 +421,12 @@
             </summary>
             <value><see langword="true"/> if the current stream position is at the end of the stream; otherwise <see langword="false"/>.</value>
         </member>
-        <member name="M:System.IO.StreamReader.#ctor(System.IO.Stream)">
+        <member name="M:System.IO.StreamReader.#ctor(System.IO.Stream,System.Boolean)">
             <summary>
-            Initializes a new instance of the <see cref="T:System.IO.StreamReader"/> class for the specified stream.
+            Initializes a new instance of the <see cref="T:System.IO.StreamReader"/> class for the specified stream and optionally leaves the stream open.
             </summary>
             <param name="stream">The stream to be read.</param>
+            <param name="leaveOpen"><see langword="true"/> to leave the stream open after the <see cref="T:System.IO.StreamReader"/> object is disposed; otherwise, <see langword="false"/>.</param>
             <exception cref="T:System.ArgumentNullException"><paramref name="stream"/> is <see langword="null"/>.</exception>
             <exception cref="T:System.ArgumentException"><paramref name="stream"/> does not support reading.</exception>
         </member>
@@ -532,11 +533,12 @@
         <member name="P:System.IO.StreamWriter.NewLine">
             <inheritdoc/>
         </member>
-        <member name="M:System.IO.StreamWriter.#ctor(System.IO.Stream)">
+        <member name="M:System.IO.StreamWriter.#ctor(System.IO.Stream,System.Boolean)">
             <summary>
-            Initializes a new instance of the <see cref="T:System.IO.StreamWriter"/> class for the specified stream by using UTF-8 encoding and the default buffer size.
+            Initializes a new instance of the <see cref="T:System.IO.StreamWriter"/> class for the specified stream by using UTF-8 encoding and the default buffer size and optionally leaves the stream open.
             </summary>
             <param name="stream">The stream to write to.</param>
+            <param name="leaveOpen"><see langword="true"/> to leave the stream open after the <see cref="T:System.IO.StreamWriter"/> object is disposed; otherwise, <see langword="false"/>.</param>
             <exception cref="T:System.ArgumentNullException"><paramref name="stream"/> is <see langword="null"/>.</exception>
             <exception cref="T:System.ArgumentException"><paramref name="stream"/> is not writable.</exception>
         </member>
