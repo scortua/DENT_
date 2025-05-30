@@ -10,8 +10,8 @@ namespace Wifi_
     public class Program
     {
         // Set the SSID & Password to your local Wifi network
-        const string MYSSID = "XXXX";
-        const string MYPASSWORD = "XXXX";
+        const string MYSSID = "Santi note 20";
+        const string MYPASSWORD = "1234567890";
         private const string URL = "https://api.openweathermap.org/data/2.5/weather?q=Bogota,CO&appid=XXXX&units=metric";
         public static void Main()
         {

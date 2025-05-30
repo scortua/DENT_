@@ -27,7 +27,7 @@ In [nanoframework firmware](https://github.com/nanoframework/nanoFirmwareFlasher
 
 > nanoff --platform esp32 --serialport COMXX --update 
 
-</details>
+Al instalar nanoff directamente en el dispositivo correcto, se pueden usar características específicas como `nanoff --update --platform esp32 --target ESP32_S3_ALL --serialport COM3 --baud 1152000 --nobackupconfig`. Esto facilita la conectividad y permite ejecutar código interpretado, que aunque es algo pesado, tiene el potencial para continuar con plataformas ESP y STM.
 
 In [nanoframework samples](https://github.com/nanoframework/Samples) you can see the different examples code.
 

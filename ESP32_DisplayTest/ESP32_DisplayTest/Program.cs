@@ -227,7 +227,7 @@ namespace ESP32_DisplayTest
             DisplayUpdate = true;
             return (byte)UG_RESULT_OK;
         }
-        /       private static byte DisplayDriverFillFrame(Int16 x1, Int16 y1, Int16 x2, Int16 y2, uGuiColor c)
+        private static byte DisplayDriverFillFrame(Int16 x1, Int16 y1, Int16 x2, Int16 y2, uGuiColor c)
         {
             //DisplayControl.FullScreen.FillRectangle(x1, y1, (x2 - x1) + 1, (y2 - y1) + 1, Color.FromArgb(c.R, c.G, c.B));
             DateTime Start = DateTime.UtcNow;
